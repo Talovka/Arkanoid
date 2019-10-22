@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>J:/AlternativeArkanoid4/AlternativeArkanoid/Content/brick1.png</File>
+    <File>J:/AlternativeArkanoid4/AlternativeArkanoid/Content/brick2.png</File>
+    <File>J:/AlternativeArkanoid4/AlternativeArkanoid/Content/brick3.png</File>
+    <File>J:/AlternativeArkanoid4/AlternativeArkanoid/Content/brick4.png</File>
+    <File>J:/AlternativeArkanoid4/AlternativeArkanoid/Content/brick5.png</File>
+    <File>J:/AlternativeArkanoid4/AlternativeArkanoid/Content/ball.png</File>
+    <File>J:/AlternativeArkanoid4/AlternativeArkanoid/Content/space.jpg</File>
+    <File>J:/AlternativeArkanoid4/AlternativeArkanoid/Content/beep.mp3</File>
+    <File>J:/AlternativeArkanoid4/AlternativeArkanoid/Content/song.mp3</File>
+    <File>J:/AlternativeArkanoid4/AlternativeArkanoid/Content/Font/Score.spritefont</File>
+    <File>J:/AlternativeArkanoid4/AlternativeArkanoid/Content/Font/Live.spritefont</File>
+    <File>J:/AlternativeArkanoid4/AlternativeArkanoid/Content/Negative.png</File>
+    <File>J:/AlternativeArkanoid4/AlternativeArkanoid/Content/Positive2.png</File>
+    <File>J:/AlternativeArkanoid4/AlternativeArkanoid/Content/paddle.png</File>
+    <File>J:/AlternativeArkanoid4/AlternativeArkanoid/Content/Liveminus2.png</File>
+    <File>J:/AlternativeArkanoid4/AlternativeArkanoid/Content/hearts-8.png</File>
+    <File>J:/AlternativeArkanoid4/AlternativeArkanoid/Content/minusballsize.png</File>
+    <File>J:/AlternativeArkanoid4/AlternativeArkanoid/Content/plusballsize.png</File>
+    <File>J:/AlternativeArkanoid4/AlternativeArkanoid/Content/Paddle1.png</File>
+    <File>J:/AlternativeArkanoid4/AlternativeArkanoid/Content/megapaddle3.psd</File>
+    <File>J:/AlternativeArkanoid4/AlternativeArkanoid/Content/Paddleplus.jpg</File>
+    <File>J:/AlternativeArkanoid4/AlternativeArkanoid/Content/Paddleminus.jpg</File>
+    <File>J:/AlternativeArkanoid4/AlternativeArkanoid/Content/Font/Currentscore.spritefont</File>
+    <File>J:/AlternativeArkanoid4/AlternativeArkanoid/Content/Font/Gameover.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

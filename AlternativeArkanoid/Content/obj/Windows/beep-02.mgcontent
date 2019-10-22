@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/user/Desktop/AlternativeArkanoid4/AlternativeArkanoid/Content/beep-02.mp3</SourceFile>
+  <SourceTime>2017-06-01T20:23:55.807357+04:00</SourceTime>
+  <DestFile>C:/Users/user/Desktop/AlternativeArkanoid4/AlternativeArkanoid/Content/bin/Windows/beep-02.xnb</DestFile>
+  <DestTime>2017-06-01T20:36:35.5733032+04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2016-03-30T10:36:08+04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2016-03-30T10:36:08+04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/user/Desktop/AlternativeArkanoid4/AlternativeArkanoid/Content/bin/Windows/beep-02.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
